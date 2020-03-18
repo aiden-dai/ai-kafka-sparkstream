@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+als_model
+tianchi_mobile_recommend_train_user.csv
