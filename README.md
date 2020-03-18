@@ -1,4 +1,4 @@
-# ai-kafka-sparkstream
+# ai-spark-kafka
 
 This repo is a demo of using Spark and Kafka together.
 
