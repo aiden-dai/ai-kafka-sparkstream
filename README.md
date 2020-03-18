@@ -3,7 +3,7 @@
 This repo is a demo of using Spark and Kafka together.
 
 Tested Version:
-- Spark Version: 2.12-2.4.5
+- Spark Version: 2.11-2.4.5
 - Kafka: 2.12-2.4.0
 
 The data file used in this demo is a sample of a public dataset from Alibaba which is about User Behavior Data on Taobao App.
